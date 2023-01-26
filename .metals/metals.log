@@ -35719,3 +35719,28 @@ WARNING: Unmatched cancel notification for request id 3792
 2023.01.26 17:53:14 INFO  shutting down Metals[0m
 2023.01.26 17:53:14 INFO  Shut down connection with build server.[0m
 2023.01.26 17:53:14 INFO  Shut down connection with build server.[0m
+2023.01.26 18:10:07 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/icharo-tb/workspace/sparkPostgres/.metals/lsp.trace.json or /home/icharo-tb/.cache/metals/lsp.trace.json[0m
+2023.01.26 18:10:07 INFO  logging to file /home/icharo-tb/workspace/sparkPostgres/.metals/metals.log[0m
+2023.01.26 18:10:07 INFO  Started: Metals version 0.11.10 in workspace '/home/icharo-tb/workspace/sparkPostgres' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/icharo-tb/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.26 18:10:08 INFO  time: initialize in 0.93s[0m
+2023.01.26 18:10:10 INFO  Attempting to connect to the build server...[0m
+2023.01.26 18:10:10 INFO  Bloop uses /usr/lib/jvm/java-1.11.0-openjdk-amd64 defined at /home/icharo-tb/.bloop/bloop.json[0m
+2023.01.26 18:10:10 INFO  skipping build import with status 'Installed'[0m
+2023.01.26 18:10:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/icharo-tb/workspace/sparkPostgres/.metals/bsp.trace.json or /home/icharo-tb/.cache/metals/bsp.trace.json[0m
+2023.01.26 18:10:10 INFO  Attempting to connect to the build server...[0m
+2023.01.26 18:10:10 INFO  Bloop uses /usr/lib/jvm/java-1.11.0-openjdk-amd64 defined at /home/icharo-tb/.bloop/bloop.json[0m
+2023.01.26 18:10:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/icharo-tb/workspace/sparkPostgres/project/.metals/bsp.trace.json or /home/icharo-tb/.cache/metals/bsp.trace.json[0m
+2023.01.26 18:10:10 INFO  time: Connected to build server in 0.28s[0m
+2023.01.26 18:10:10 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.01.26 18:10:13 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-1.11.0-openjdk-amd64/src.zip, /usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2023.01.26 18:10:13 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-1.11.0-openjdk-amd64/src.zip, /usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2023.01.26 18:10:13 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-1.11.0-openjdk-amd64/src.zip, /usr/lib/jvm/java-1.11.0-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2023.01.26 18:10:13 INFO  time: indexed workspace in 2.8s[0m
+Jan 26, 2023 6:10:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

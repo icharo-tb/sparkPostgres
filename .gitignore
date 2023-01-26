@@ -7,3 +7,6 @@ application.conf
 
 # Miscellaneous
 .bsp
+.bloop
+.metals
+.vscode
