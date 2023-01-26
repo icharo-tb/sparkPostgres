@@ -1,0 +1,9 @@
+# Sbt folders
+target
+project
+
+# Conf files
+application.conf
+
+# Miscellaneous
+.bsp
