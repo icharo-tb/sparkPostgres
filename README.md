@@ -9,10 +9,9 @@ topic and to my surprise, the owner made a GitHub repository about it too. There
 his [repository](https://github.com/ankur334/sparkBootCamp).
 
 I mainly wrote some functions over and tried to understand the purpose in every action, but I wanted to complete it a little bit and change some
-small things to make it more professional. First of all, I used the libraryDependencies for typesafe, I was clear about creating a conf or .env
+small things to make it more professional. First of all, I used the libraryDependencies for **typesafe**, I was clear about creating a *conf* or *.env*
 file that stores the database credentials without having them exposed. Then, after getting several errors while running tests, I had to add some
-changes since I needed my data to cast certain data types in order to
-store them in my postgres table.
+changes since I needed my data to cast certain data types in order to store them in my **PostgreSQL** table.
 
 Lastly, instead of InteliJ, I worked with VS Code, Metals and SBT.
 
